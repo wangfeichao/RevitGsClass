@@ -10,5 +10,6 @@ namespace RevitGSTools
     {
         double aaa = 0;
         double baa = 0;
+        double ccc= 0;
     }
 }
